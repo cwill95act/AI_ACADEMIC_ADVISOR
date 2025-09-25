@@ -8,7 +8,7 @@ This project uses a **React.js frontend** and a **Python Flask backend** powered
 
 ## 🌐 Live Demo
 
-(COMING SOON)
+https://illinois.zoom.us/rec/play/27V4-RT2QBvVfOkbKUOCgKxgPwM7ezMTtKA8k5rh2undjrP_wD6isn5Fr8AiF6Sl6x22VgOzZaTBH0kP.c-WEM0RQAC7ck8dk?autoplay=true&startTime=1758763512000
 
 ---
 
@@ -62,7 +62,7 @@ AI-Advisor/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/trustanprice/AI-Advisor.git
+git clone 
 cd AI-Advisor
 
 ### 2. Set up the Frontend
